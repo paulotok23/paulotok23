@@ -1,11 +1,47 @@
+## Habilidades e Conhecimentos 🛠️
+
 <p align="center">
+  <b>Administração de Servidores</b> <br>
   <img alt="Administração de Servidores" src="https://img.shields.io/badge/Administração%20de%20Servidores-Experiente-brightgreen?style=plastic&logo=serverfault">
+  <br><br>
+  <b>Desenvolvimento de Sites</b> <br>
   <img alt="Desenvolvimento de Sites" src="https://img.shields.io/badge/Desenvolvimento%20de%20Sites-Proficiente-blueviolet?style=plastic&logo=wordpress">
+  <br><br>
+  <b>Gerenciamento de Banco de Dados</b> <br>
   <img alt="Gerenciamento de Banco de Dados" src="https://img.shields.io/badge/Gerenciamento%20de%20Banco%20de%20Dados-Experiente-blue?style=plastic&logo=mysql">
+  <br><br>
+  <b>Infraestrutura de Redes</b> <br>
   <img alt="Infraestrutura de Redes" src="https://img.shields.io/badge/Infraestrutura%20de%20Redes-Experiente-informational?style=plastic&logo=cisco">
+  <br><br>
+  <b>Monitoramento de Sistemas</b> <br>
   <img alt="Monitoramento de Sistemas" src="https://img.shields.io/badge/Monitoramento%20de%20Sistemas-Proficiente-9cf?style=plastic&logo=grafana">
+  <br><br>
+  <b>Administração de LDAP</b> <br>
   <img alt="Administração de LDAP" src="https://img.shields.io/badge/Administração%20de%20LDAP-Proficiente-yellow?style=plastic&logo=ldap">
 </p>
+
+## Certificações 🎓
+
+<p align="center">
+  <b>DCA - Docker Certified Associate</b> <br>
+  <img alt="DCA - Docker Certified Associate" src="https://img.shields.io/badge/DCA%20-%20Docker%20Certified%20Associate-Approved-blue?style=plastic&logo=docker">
+  <br><br>
+  <b>Fundamentos de Cloud</b> <br>
+  <img alt="Fundamentos de Cloud" src="https://img.shields.io/badge/Fundamentos%20de%20Cloud-Certificado-brightgreen?style=plastic&logo=cloud">
+  <br><br>
+  <b>Fundamentos de Containers</b> <br>
+  <img alt="Fundamentos de Containers" src="https://img.shields.io/badge/Fundamentos%20de%20Containers-Certificado-orange?style=plastic&logo=docker">
+  <br><br>
+  <b>Linux Essentials & Fundamentos</b> <br>
+  <img alt="Linux Essentials & Fundamentos" src="https://img.shields.io/badge/Linux%20Essentials%20%26%20Fundamentos-Certificado-green?style=plastic&logo=linux">
+  <br><br>
+  <b>Fundamentos de DevOps</b> <br>
+  <img alt="Fundamentos de DevOps" src="https://img.shields.io/badge/Fundamentos%20de%20DevOps-Certificado-blueviolet?style=plastic&logo=devops">
+  <br><br>
+  <b>ITIL v3 Foundations</b> <br>
+  <img alt="ITIL v3 Foundations" src="https://img.shields.io/badge/ITIL%20v3%20Foundations-Certificado-lightgrey?style=plastic&logo=itil">
+</p>
+
 
 # Sobre Mim 👨‍💻
 
