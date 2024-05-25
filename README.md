@@ -14,6 +14,7 @@ Olá! Sou Paulo Henrique, um profissional de Tecnologia da Informação apaixona
 - Administração de Servidores (CentOS, Ubuntu, Windows Server) 🖥️
 - Desenvolvimento de Sites (Drupal & Wordpress) 🌐
 - Gerenciamento de Sistemas e Banco de Dados TOTVS 💾
+- Gerenciamento de Containers (Docker & Kubernets) ❤️
 - Infraestrutura de Redes 🌐
 - Monitoramento de Sistemas (Grafana, PRTG, Zabbix) 📊
 - Administração de LDAP 🔐
