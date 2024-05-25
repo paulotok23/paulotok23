@@ -7,7 +7,7 @@
   <img alt="Administração de LDAP" src="https://img.shields.io/badge/Administração%20de%20LDAP-Proficiente-yellow?style=plastic&logo=ldap">
 </p>
 <p align="center">
-  <img alt="DCA - Docker Certified Associate" src="https://img.shields.io/badge/DCA%20-%20Docker%20Certified%20Associate-Approved-blue?style=plastic&logo=docker">
+  <img alt="DCA - Docker Certified Associate" src="https://img.shields.io/badge/Fundamentos%20de%20Containers-Certificado-orange?style=plastic&logo=docker">
   <img alt="Fundamentos de Cloud" src="https://img.shields.io/badge/Fundamentos%20de%20Cloud-Certificado-brightgreen?style=plastic&logo=cloud">
   <img alt="Fundamentos de Containers" src="https://img.shields.io/badge/Fundamentos%20de%20Containers-Certificado-orange?style=plastic&logo=docker">
   <img alt="Linux Essentials & Fundamentos" src="https://img.shields.io/badge/Linux%20Essentials%20%26%20Fundamentos-Certificado-green?style=plastic&logo=linux">
